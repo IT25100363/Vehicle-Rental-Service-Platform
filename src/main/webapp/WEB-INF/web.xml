@@ -1,4 +1,0 @@
-<servlet-mapping>
-    <servlet-name>UserServlet</servlet-name>
-    <url-pattern>/UserManagement</url-pattern>
-</servlet-mapping>
