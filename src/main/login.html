@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DriveSync - Login</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+<body class="auth-body">
+<div class="auth-container">
+    <div class="auth-card glass-panel">
+        <div class="auth-header">
+            <i class="ph-fill ph-car-profile logo-icon auth-logo"></i>
+            <h2>Welcome to DriveSync</h2>
+            <p>Manage your vehicle services seamlessly.</p>
+        </div>
+
+        <div class="auth-tabs">
+            <button class="auth-tab active" id="tab-login">Login</button>
+            <button class="auth-tab" id="tab-signup">Sign Up</button>
+        </div>
+
+        <!-- Login Form -->
+        <form id="login-form" class="auth-form active">
+            <div class="form-group">
+                <label for="login-email">Email Address</label>
+                <div class="input-with-icon">
+                    <i class="ph ph-envelope"></i>
+                    <input type="email" class="form-control" id="login-email" required placeholder="admin@drivesync.com">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="login-password">Password</label>
+                <div class="input-with-icon">
+                    <i class="ph ph-lock-key"></i>
+                    <input type="password" class="form-control" id="login-password" required placeholder="••••••••">
+                </div>
+            </div>
+            <div class="form-options">
+                <label class="checkbox-label">
+                    <input type="checkbox"> Remember me
+                </label>
+                <a href="#" class="forgot-password">Forgot Password?</a>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Sign In</button>
+        </form>
+
+        <!-- Signup Form -->
+        <form id="signup-form" class="auth-form">
+            <div class="form-group">
+                <label for="signup-name">Full Name</label>
+                <div class="input-with-icon">
+                    <i class="ph ph-user"></i>
+                    <input type="text" class="form-control" id="signup-name" required placeholder="John Doe">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="signup-email">Email Address</label>
+                <div class="input-with-icon">
+                    <i class="ph ph-envelope"></i>
+                    <input type="email" class="form-control" id="signup-email" required placeholder="john@example.com">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="signup-password">Password</label>
+                <div class="input-with-icon">
+                    <i class="ph ph-lock-key"></i>
+                    <input type="password" class="form-control" id="signup-password" required placeholder="Create a password">
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Create Account</button>
+        </form>
+    </div>
+</div>
+
+<script src="login.js"></script>
+</body>
+</html>
