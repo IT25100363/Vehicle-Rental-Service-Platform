@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="SmartTomcatProRunConfigurationType">
+    <deployments>
+      <tomcat-deployment context-path="/Feedback_ReviewManagement" location="$PROJECT_DIR$/src/main/webapp" module="Feedback_ReviewManagement" type="DIR" />
+    </deployments>
+    <option name="httpPort" value="8080" />
+    <option name="id" value="1331981e-ab01-46c9-b1e7-f549cd0c4641" />
+    <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+    <predefined_log_file enabled="true" id="Tomcat Access Log" />
+    <predefined_log_file id="Tomcat Catalina Log" />
+    <predefined_log_file id="Tomcat Manager Log" />
+    <predefined_log_file id="Tomcat Host Manager Log" />
+    <option name="tomcatId" value="96554e44-42b5-4b17-b862-cae24fbbe970" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
