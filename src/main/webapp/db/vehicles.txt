@@ -1,0 +1,13 @@
+fd48e9fb-abac-4b3f-9c61-5dff812e738e,BMW,320 i,PU-6666,25000.0,Available,https://www.bmw-m.com/content/dam/bmw/marketBMW_M/www_bmw-m_com/topics/magazine-article-pool/2017/bmw-m5-f90/bmw-m5-f90-stage-02.jpg?imwidth=1440
+ec5d9ad1-af44-4a04-aee5-ac238bf6db8f,Land Cruiser,LC 300,CBZ-5555,60000.0,Available,https://toyotacreek.com/wp-content/uploads/2025/03/Specs-and-Features-of-the-New-Toyota-Land-Cruiser-Featured.jpg
+d7ec516e-464c-4ca6-a832-99f22b667f0e,KTM 250,BIKE ,ABC-9089,8000.0,Available,https://s1.cdn.autoevolution.com/images/news/a-black-ktm-1290-super-duke-r-yes-please-photo-gallery-76004_1.jpg
+e82298b8-bb2d-4adf-bc01-3cba3f5ff898,BMW,X1,ABC-9090,45000.0,Available,https://images.unsplash.com/photo-1677517859847-0e750bfd13a9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+a48a8df7-adb5-485e-9fd4-8be7b415c585,TOYOTA,Roomy,CDB-8769,15000.0,Available,https://global.toyota/pages/news/images/2016/11/09/1330/001_2.jpg
+88908015-aaff-4677-8e99-e302a4d402e9,TOYOTA,KDH,PA-0001,25000.0,Available,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHZttjAcPCxguTc7uMaj-ieaFd9fwMtYBuclZj0qAYyaCWL5RZhOVKDeX&s=10
+8859c234-a1ba-4c44-a50e-ad8bb87aff3f,LAND ROVER,DEFENDER CLASSIC,PU-6666,30000.0,Available,https://www.jaguarlandroverclassic.com/media/wysiwyg/Octa_Front_Shot-min.png
+f653cd17-ffca-4497-9c92-7e0865127cfe,FORD,RANGER,PF-3421,30000.0,Rented,https://media.ed.edmunds-media.com/ford/ranger/2026/oem/2026_ford_ranger_crew-cab-pickup_raptor_fq_oem_1_600.jpg
+9f956f2a-128b-4b7b-a330-e38060872f1a,MITSUBISHI,FUSO,NA-2005,60000.0,Available,https://assets.mitsubishi-fuso.com/fusoassets/pressreleases/images/content/fuso/en/news/news_2019/20190221/_jcr_content/par/image_1969807225.img.png/1550737036361.png
+5875708d-d079-4a7f-a308-85cc89721a5a,AUDI,Q2,CAP-2211,25000.0,Available,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkT5TnMl8k3orIi8UyiO_YRJff7_yTXtb53W81ZcOJhdVQGSiofQy_b-A&s=10
+addc0b21-12dd-4efd-b201-edc5015b21f1,TOYOTA,COROLLA,KY-8899,15000.0,Available,https://www.toyota.lk/vehicles/Corolla/Silver-Mica-Metallic/vehicle1.png
+dd339bcd-0d80-482a-bad5-ee5c8131d69f,LEXUS,LM,CBQ-4321,45000.0,Available,https://businessmotoring.co.uk/wp-content/uploads/elementor/thumbs/KatieBoulter-LexusLM-10-scaled-1-rhxw7tv5y7ztov6sk0w2akpygqrt4pfcq9kmyrltfk.jpg
+067040bb-e321-4ec9-85b8-5fc48932d73b,ROYAL ENFIELD,HIMALAYA,CCZ-3576,15000.0,Available,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGC7pc91K0K2bW-p3od-m5eKQE-Aei_dw-DQRS_6rMzw&s=10
