@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4c9f69-9dbe-4b4d-a061-87da0f9845e8" name="Changes" comment="" />
+    <list default="true" id="a2db1a4a-05de-4aae-ba0a-a8c04c552806" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -21,33 +20,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IT25104071"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/IT25100363/Vehicle-Rental-Service-Platform",
-    "accountId": "f6547502-aab7-44ac-ad26-3ab4b533be97"
+    "accountId": "915fe225-c57a-4eac-85a1-b7082e91c475"
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="3DohLmx96aQ3ztxspYrg3x0Igku" />
+  <component name="ProjectId" id="3Dt11pme1ZK4xMmztxbeX15V43E" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
-    "to.speed.mode.migration.done": "true"
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -59,11 +56,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8d4c9f69-9dbe-4b4d-a061-87da0f9845e8" name="Changes" comment="" />
-      <created>1778954280924</created>
+      <changelist id="a2db1a4a-05de-4aae-ba0a-a8c04c552806" name="Changes" comment="" />
+      <created>1779086342026</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1778954280924</updated>
+      <updated>1779086342026</updated>
     </task>
     <servers />
   </component>
